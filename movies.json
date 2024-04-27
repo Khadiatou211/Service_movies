@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Legende d'Automne",
+    "release": 1987,
+    "synopsis": "Une saga familiale épique se déroulant au début du XXe siècle dans les vastes étendues sauvages du Montana."
+  },
+  {
+    "id": 2,
+    "title": "Identity",
+    "release": 1998,
+    "synopsis": "Un thriller psychologique captivant se déroulant dans un motel isolé lors d'une nuit orageuse, où les secrets des personnages se dévoilent un par un."
+  },
+  {
+    "id": 3,
+    "title": "La Faille",
+    "release": 2003,
+    "synopsis": "Un suspense juridique intense mettant en vedette un procureur et un expert en jury consultant pour condamner un suspect apparemment coupable."
+  }
+]
